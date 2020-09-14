@@ -6,6 +6,7 @@ export default {
     colors: {
       main1: "hsl(207,70%,59%)",
       main2: "hsl(207,70%,94%)",
+      main3: "#99fffb",
       dark1: "hsl(227,2%,12%)",
       dark2: "hsl(227,2%,26%)",
       dark3: "hsl(227,2%,64%)",

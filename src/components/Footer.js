@@ -57,8 +57,8 @@ export const Footer = () => {
             <img src={data.instagram.publicURL} alt="Instagram logo" />
           </a>
         </FooterSocialIcons>
-        <p size="xSmall" color="dark3">
-          © {new Date().getFullYear()}, |<span> FRONTEND MAGIC</span> | All
+        <p size="xSmall" color="light1">
+          © {new Date().getFullYear()}, |<span> Elias Gillgren</span> | All
           rights reserved
         </p>
       </FooterSocialWrapper>
