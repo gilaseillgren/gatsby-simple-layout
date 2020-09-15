@@ -26,7 +26,6 @@ export const FeatureImage = ({ fixed }) => {
           height: "100%",
         }} 
      >
-         <h1>hej</h1>
      </Img>
     </FeatureImageWrapper>
   )
